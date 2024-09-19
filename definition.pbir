@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../VIVEK TRANSPORT DEMO1.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

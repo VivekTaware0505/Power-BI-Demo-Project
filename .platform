@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "VIVEK TRANSPORT DEMO1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4c8afa3c-4860-4261-bbc4-dd1f356dc328"
+  }
+}
